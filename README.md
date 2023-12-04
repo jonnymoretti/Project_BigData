@@ -1,5 +1,5 @@
 # Simulação de Tráfego em uma Interseção
-<a href="docs/readme_en.md">English Version</a>
+<a href="docs/readme_en.md">Versão em Inglês</a>
 
 Este projeto consiste em uma simulação de tráfego em uma interseção de ruas, onde carros se
 movem em direções aleatórias. O objetivo é modelar um sistema realista de coordenação de tráfego,
